@@ -4,22 +4,27 @@ A sleek and modern landing page designed with stunning reveal animations using G
 
 ## 🔥 Live Preview
 
-[> (https://mouth-wash-landing-page1-by-muhammad-mustafa.vercel.app/) ]
+[🔗 Click here to view the live site](https://mouth-wash-landing-page1-by-muhammad-mustafa.vercel.app/)
+
 ---
 
 ## 📸 Preview
 
-![Preview Screenshot](assets/Screenshot (66).png)  
+![Preview Screenshot](assets/Screenshot%20(66).png)
 
 ---
 
 ## 📁 Project Structure
+
 📦 mouthwash-landing-page/
 ├── index.html
 ├── style.css
 ├── main.js
 └── assets/
-└── hero-img.jpg
+├── hero-img.jpg
+└── Screenshot (66).png
+
+
 
 ---
 
@@ -52,5 +57,3 @@ A sleek and modern landing page designed with stunning reveal animations using G
 ```bash
 git clone https://github.com/yourusername/mouthwash-landing-page.git
 cd mouthwash-landing-page
-
-
